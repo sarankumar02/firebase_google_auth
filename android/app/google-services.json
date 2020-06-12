@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "190157488997",
+    "firebase_url": "https://sakina-6f541.firebaseio.com",
+    "project_id": "sakina-6f541",
+    "storage_bucket": "sakina-6f541.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190157488997:android:f98d2e1359e90d626d978c",
+        "android_client_info": {
+          "package_name": "com.example.playonn_user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "190157488997-cbefi7nv1vcekl5cp80j7ottig6pu559.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.playonn_user",
+            "certificate_hash": "233701bbe836e35d67bf33534b5f38771a46a305"
+          }
+        },
+        {
+          "client_id": "190157488997-r15d7dde8mq9js4rbq1od5o2gs2vliso.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOVamm02cwvPBn9I1X3ILgDjtIbXzjazA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "190157488997-r15d7dde8mq9js4rbq1od5o2gs2vliso.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
